@@ -1,1 +1,1 @@
-wcjiang/linux-command:latest
+hello-world
