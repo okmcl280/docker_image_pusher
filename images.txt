@@ -1,1 +1,1 @@
-openjdk:8-jdk-alpine
+mysql:5.7
