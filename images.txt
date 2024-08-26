@@ -1,1 +1,1 @@
-minio/minio
+pandoc/latex:2.6
