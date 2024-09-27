@@ -1,1 +1,1 @@
-pandoc/latex:2.6
+flowiseai/flowise
