@@ -1,1 +1,1 @@
-wrenai/wren:latest
+qdrant/qdrant:v1.11.0
