@@ -1,1 +1,1 @@
-langflowai/langflow:latest
+wrenai/wren:latest
