@@ -1,1 +1,1 @@
-qdrant/qdrant:v1.11.0
+node:20-slim
