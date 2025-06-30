@@ -1,1 +1,1 @@
-node:18-bookworm-slim
+quay.io/coreos/etcd:v3.5.18
